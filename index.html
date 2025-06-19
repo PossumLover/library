@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Essays</title>
+    <style>
+        body {
+            font-family: Georgia, serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: #fafafa;
+            color: #333;
+        }
+        
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            margin-bottom: 50px;
+            font-size: 2.5em;
+        }
+        
+        .essay-list {
+            list-style: none;
+            padding: 0;
+        }
+        
+        .essay-item {
+            background: white;
+            margin: 15px 0;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            transition: transform 0.2s ease;
+        }
+        
+        .essay-item:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+        }
+        
+        .essay-link {
+            display: block;
+            padding: 20px;
+            text-decoration: none;
+            color: #2c3e50;
+            font-size: 1.1em;
+        }
+        
+        .essay-link:hover {
+            color: #3498db;
+        }
+        
+        .loading {
+            text-align: center;
+            color: #7f8c8d;
+            font-style: italic;
+        }
+        
+        .no-essays {
+            text-align: center;
+            color: #7f8c8d;
+            font-style: italic;
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+    <h1>My Essays</h1>
+    
+    <div id="loading" class="loading">Loading essays...</div>
+    <ul id="essay-list" class="essay-list" style="display: none;"></ul>
+    <div id="no-essays" class="no-essays" style="display: none;">
+        No essays found. Please add HTML files to the 'essays' folder.
+    </div>
+
+    <script>
+        // List of your essay files - UPDATE THIS ARRAY with your essay filenames
+        const essays = [
+            // Add your essay filenames here, for example:
+            // 'my-first-essay.html',
+            // 'thoughts-on-technology.html',
+            // 'personal-reflections.html'
+        ];
+
+        function loadEssays() {
+            const loadingDiv = document.getElementById('loading');
+            const essayList = document.getElementById('essay-list');
+            const noEssaysDiv = document.getElementById('no-essays');
+            
+            loadingDiv.style.display = 'none';
+            
+            if (essays.length === 0) {
+                noEssaysDiv.style.display = 'block';
+                return;
+            }
+            
+            essayList.style.display = 'block';
+            
+            essays.forEach(filename => {
+                const listItem = document.createElement('li');
+                listItem.className = 'essay-item';
+                
+                // Create a readable title from filename
+                const title = filename
+                    .replace('.html', '')
+                    .replace(/[-_]/g, ' ')
+                    .replace(/\b\w/g, l => l.toUpperCase());
+                
+                listItem.innerHTML = `
+                    <a href="essays/${filename}" class="essay-link">
+                        ${title}
+                    </a>
+                `;
+                
+                essayList.appendChild(listItem);
+            });
+        }
+
+        // Load essays when page loads
+        document.addEventListener('DOMContentLoaded', loadEssays);
+    </script>
+</body>
+</html>
