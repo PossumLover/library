@@ -1,0 +1,25 @@
+---
+layout: base.njk
+title: Archive
+---
+<div class="archive">
+  <div class="archive-header">
+    <p class="archive-count">{{ collections.posts.length }} essays &amp; dispatches</p>
+  </div>
+
+  {% for group in collections.postsByYear %}
+    <section class="year-section">
+      <h2 class="year-label">{{ group.year }}</h2>
+      <ul class="article-list">
+        {% for post in group.posts %}
+          <li class="article-item">
+            <a href="{{ post.url }}" class="article-link">
+              <time class="article-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+              <span class="article-title">{{ post.data.title }}</span>
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </section>
+  {% endfor %}
+</div>

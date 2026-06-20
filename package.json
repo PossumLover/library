@@ -1,0 +1,13 @@
+{
+  "name": "the-lodge",
+  "version": "1.0.0",
+  "description": "A personal archive of Sam Kriss's writing",
+  "scripts": {
+    "prepare-content": "node scripts/prepare.js",
+    "build": "eleventy",
+    "start": "eleventy --serve --port 3000"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}

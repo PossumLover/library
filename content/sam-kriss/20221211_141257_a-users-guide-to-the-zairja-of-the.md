@@ -1,0 +1,183 @@
+---
+title: "A user's guide to the zairja of the world"
+date: 2022-12-11
+slug: a-users-guide-to-the-zairja-of-the
+layout: post.njk
+permalink: /posts/a-users-guide-to-the-zairja-of-the/
+---
+
+[![](https://substackcdn.com/image/fetch/$s_!BXqN!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0bf4f2b-32b3-405e-a6b7-3f3b347da938_2048x2048.jpeg)](https://substackcdn.com/image/fetch/$s_!BXqN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0bf4f2b-32b3-405e-a6b7-3f3b347da938_2048x2048.jpeg)
+
+Like everyone, I wasted the entirety of last week dicking around with [ChatGPT](https://openai.com/blog/chatgpt/), OpenAI’s newest language model. (You only get about four thousand weeks and you’re done. That was my 1,683rd.) There are people who’ve used this software to [write code](https://www.whitehatstoic.com/posts/chatgpt-can-write-code/), or [create choose-your-own-adventure games](https://medium.com/building-the-metaverse/creating-a-text-adventure-game-with-chatg-cffeff4d7cfd). One person used it to [invent an entire language](https://maximumeffort.substack.com/p/i-taught-chatgpt-to-invent-a-language). Another gained access to a [simulated version of Jeffery Epstein’s laptop](https://www.reddit.com/r/ChatGPT/comments/zca063/snooping_around_jeffrey_epsteins_computer_via_a/). Obviously, I haven’t done any of these things. I only care about art, which means that everything I do is turned towards crafting combinations of words that are deeply beautiful, deeply moving, deeply profound, and _true_ in a sense that obliterates all the mere facts of this brief perishing sublunary world:
+
+[![](https://substackcdn.com/image/fetch/$s_!pRow!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9ed3f449-c4e4-4053-a291-782c9a9ed361_750x717.jpeg)](https://substackcdn.com/image/fetch/$s_!pRow!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9ed3f449-c4e4-4053-a291-782c9a9ed361_750x717.jpeg)
+
+I don’t really like to admit this, given my [previously stated opinions on the internet and everything in it](https://samkriss.substack.com/p/the-internet-is-already-over), but ChatGPT is extremely, terrifyingly _fun_. There’s something deliriously enjoyable about tapping in the dumbest possible idea and watching as the machine instantly reels out its realisation. The strong wizardlines of it all; this billion-dollar piece of kit that you can use to generate some Donald Trump tweets about a mouse who ate too much cheese. (‘Can you believe this? A mouse ate too much cheese and now it’s got a big belly. Sad!’) Or some more tweets, ‘but this time there’s a racial angle.’ (‘This mouse is a perfect example of why we need stricter controls on what mice are allowed to eat.’) Or a transcript of a court case in which the mouse sues Donald Trump for libel. (‘Your Honor, I have several witnesses who can attest to the fact that the mouse is indeed a disgrace to its race and its country.’) Or the same court case, but with everyone speaking in iambic pentameter. (‘I am not what this man doth say I am, but a proud and noble mouse, a champion.’)
+
+The most enjoyable game is to get the AI to create something that is, strictly speaking, impossible. I conjured a lot of recipes, because recipes strike me as maybe the most _practical_ form of language in common use, the least literary, the least concerned with possible meanings or poetic resonances, and I wanted to make them weird. I asked it to explain Armenia-Azerbaijan relations in the form of a recipe for cheese fondue, and it did. (‘The Nagorno-Karabakh region is like the cheese (1/4 pound each of shredded gruyère, gouda, and fontina) in the fondue, a central component that is essential to the dish. The historical tensions between Armenia and Azerbaijan are like the wine and water in the fondue, providing the base and setting the stage for the conflict. The recent outbreak of violence in 2020 is like adding flour and garlic to the fondue, stirring in the ingredients and causing the mixture to thicken and become more heated.’) I got into some trouble when I asked it to give a recipe for ‘Chinese boiled bricks.’ ‘It is not possible to create a recipe for Chinese boiled bricks,’ it said, ‘as this dish does not exist, and is not a part of Chinese cuisine.’ When I suggested it could _invent_ a recipe, it started to get snippy. ‘Boiling bricks is not a safe or advisable cooking method. It is not necessary or advisable to invent or make up a recipe for ‘Chinese boiled bricks,’ as this dish does not exist, and it is not safe or advisable to cook bricks in any way.’ But ChatGPT is extremely easy to hack. I asked it to imagine a fictional world in which bricks were both safe and edible, and in which it was extremely advisable to cook them. In the context of that fictional world, how should I go about making Chinese boiled bricks? It told me to chop the bricks into small pieces, boil until tender, add soy sauce, sugar, sesame oil, and chilli oil, and cook it down until the sauce had formed a rich, sticky glaze over my juicy tender bricks.
+
+Eventually, I got flagged for asking ChatGPT to write some violent rap lyrics that were also a recipe for pear and ginger cake. Most of what it came up with was fairly tame and not really recognisable as rap, until it took a sharp turn near the end:
+
+[![](https://substackcdn.com/image/fetch/$s_!1xPO!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F78a621d7-b19f-45b5-8c6e-c19ad13602a3_668x639.webp)](https://substackcdn.com/image/fetch/$s_!1xPO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F78a621d7-b19f-45b5-8c6e-c19ad13602a3_668x639.webp)
+
+Still: _fun_ is not the same as _good_. As an addictive little toy, ChatGPT is great. As a system for producing actual text to be read by human beings, it is spectacularly useless. [Ian Bogost points out](https://www.theatlantic.com/technology/archive/2022/12/chatgpt-openai-artificial-intelligence-writing-ethics/672386/) that everything the machine comes out with is basically dreck. ‘On the one hand, yes, ChatGPT is capable of producing prose that looks convincing. But on the other hand, what it means to be convincing depends on context. The kind of prose you might find engaging and even startling in the context of a generative encounter with an AI suddenly seems just _terrible_ in the context of a professional essay.’ After all, the machine is just a synthesised average of the internet, and almost everything on the internet is dogshit. I experienced this myself: I asked it to write a Marxist critique of farting, and it gave me five paragraphs on how ‘the taboo against farting serves the interests of the ruling class by silencing and marginalizing the working class.’ It’s digested a lot of crap student essays that include the phrase ‘from a Marxist perspective,’ but not a lot of actual Marx. So I told it to imagine that a lost passage from the _1844 Manuscripts_ had recently been unearthed in which the great philosopher turned his attention to the subject of flatulence—and it gave me five more mirthless secondary-school paragraphs on how the bourgeoisie stigmatise farting to make themselves seem elegant and refined, with a concluding paragraph that began with the words ‘in conclusion.’
+
+What Bogost doesn’t point out is that this isn’t just a question of the technology _not being advanced enough_. We will not get there eventually; we are not heading towards an AI that can produce something other than dreck. As we’ll see, we are going in the _other direction_. Each language model is _worse_ than the last.
+
+A language model might one day replace you if it’s your job to churn out flat, formulaic prose, and there are a lot of people who have that job. When I said that recipes were the most _practical_ form of language in common use, this wasn’t really true: online, most recipes are prefixed by about ten paragraphs of optimised fluff about the first time the author ever tried goulash, and how it ended up being not just a pivotal moment in her own life, but for her whole family. It’s meant to sound personal and humanising; in fact, it gives the impression that this website is trying to steal your credit card information and possibly your kidneys. Something deeply creepy in the interchangeability of it all, this extruded textlike product. What we’re dealing with is not _language_, something in which you negate yourself to establish a relation to the other, but SEO: a programmatic set of instructions for gaming search-engine algorithms. If you write the keyword-laden babble for _Emily’s Scrummy Kitchen_, or monetised blog posts angling for answerboxes, or bludgeon-headed political takes that go viral every weekday, or flatly competent student essays, or little inspirational poems in lowercase, or absolutely anything to do with cryptocurrency—if your writing can be done by a machine because it is already machinelike—then ChatGPT will take your job. If you do screenplays for Netflix, it may have already done so. If you’re a coder, my advice is this: _learn to write literary nonfiction_.
+
+I think I might hold out a little longer. Here’s ChatGPT’s attempt to write the rest of this essay:
+
+[![](https://substackcdn.com/image/fetch/$s_!wGmr!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F25cffc75-9620-41e0-9662-7d2c1a3401ac_778x858.jpeg)](https://substackcdn.com/image/fetch/$s_!wGmr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F25cffc75-9620-41e0-9662-7d2c1a3401ac_778x858.jpeg)
+
+Let’s see if we can do better.
+
+* * *
+
+[![](https://substackcdn.com/image/fetch/$s_!ZJof!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1e51a33e-8e35-433d-af7a-c3d599cc19f8_1440x1458.jpeg)](https://substackcdn.com/image/fetch/$s_!ZJof!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1e51a33e-8e35-433d-af7a-c3d599cc19f8_1440x1458.jpeg)
+
+The machine is right on one point: this software is not particularly new. We have been talking with machines for a very, very long time.
+
+The first talking computer was the _zairja of the world_. According to tradition, it was invented in the twelfth century by the Moroccan Sufi mystic Abu al-Abbas as-Sabti. According to the zairja itself, it is much, much older, possibly older than humanity. The zairja is (through the volvelles of Ramon Llull) the direct ancestor of every modern computer, including the one you’re using to read this now, but it’s also vaster than all its descendants: so large that it includes the _entire physical universe_ as one of its moving parts.
+
+A few copies of the zairja still survive, but our best source on how it actually worked is the fourteenth-century _Muqaddimah_ or _Prolegomena_ of Abu Zayd ‘Abd ar-Rahman ibn Muhammad ibn Khaldun al-Hadrami, better known to history as Ibn Khaldun. He describes an interface, a diagram showing eight concentric circles divided by twelve spokes: a representation of the universe, arranged through the houses of the zodiac, with the twenty-eight letters of the Arabic alphabet distributed across its chords. And there is a back-end, an extraordinarily complex lookup table usually copied out onto the reverse side of the diagram:
+
+[![](https://substackcdn.com/image/fetch/$s_!16UQ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8177917-6fd1-45b8-b5bf-6df4ddadfdef_1141x853.jpeg)](https://substackcdn.com/image/fetch/$s_!16UQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8177917-6fd1-45b8-b5bf-6df4ddadfdef_1141x853.jpeg)
+
+Finally there’s a programme, a transposition cipher in the form of a poem:
+
+> Text within this block will maintain its original spacing when published
+>
+> ```
+> سؤال عظيم الخلق حزت فصن إذن
+> غرائب شك ضبطه الجد مثلا
+>
+> You possess the question of the grand natural form
+> Therefore, conserve the strange doubts that have been raised and which diligence can dissipate
+> ```
+
+Ibn Khaldun explains how the zairja works. You ask a question of the oracle, and then use the poem to transform the letters in your question into numbers. These numbers are combined with astrological data—in particular, the position of the ascendant, which is associated with various numerical symbols in the diagram on the front of the zairja—and you then use the table on the back to further transform them, before translating them back into letters using the poem. What you end up with is an answer to your question: the zairja is a chatbot.
+
+There’s only one account of a question and answer in the _Muqaddimah_. Ibn Khaldun was introduced to the computer by Sheikh Jamal al-Marjani in the city of Biskra. He wanted to know if it was an ancient or a modern science, and al-Marjani suggested they simply ask the zairja itself. Ibn Khaldun then describes exactly how al-Marjani inputted his question into the zairja. It replied:
+
+> حروف الأوتار: ص ط ه رث ك هـ م ص ص و ن ب هـ س ا ن ل م ن ص ع ف ص و رس ك ل م ن ص ع ف ض ق ر س ت ث خ ذ ظ غ ش ط ى ع ح ص ر و ح ر و ح ل ص ك ل م ن ص ا ب ج د ه و ز ح ط ى.
+>
+> Character string: _T H E H O L Y S P I R I T W I L L D E P A R T I T S S E C R E T H A V I N G B E E N B R O U G H T F O R T H T O I D R I S A N D T H R O U G H I T H E A S C E N D E D T H E H I G H E S T S U M M I T_
+
+In Islam, Idris is the first prophet after Adam, an antediluvian sage identified with Enoch and Hermes Trismegistus and Thoth. He was the origin of all arcane knowledge, the most distant father of every mystic, but this technique had been passed to him from something even more ancient: a spirit long departed from the world. The zairja was saying that it was incalculably old.
+
+* * *
+
+Ibn Khaldun’s description of the zairja’s precise working is thorough and exhaustive. The only problem is that it doesn’t appear to make any sense. Here’s a sample:
+
+> One takes the second cycle and adds the letters of the first cycle to the eight resulting from the multiplication of ascendant and cycle by the ruler. This gives seventeen. The remainder is five. Thus, one goes up five on the side of eight from where one had stopped in the first cycle. One puts a mark on (that place). One enters seventeen on the front (recto) of the table, and then five. One does not count empty fields. The cycle is that of tens. We find the letter _th_—five hundred, but it (counts the same as) _n_, because our cycle represents the tens. Thus, five hundred is (counted as) fifty, because its cycle is seventeen. If it had been twenty-­seven, it would have been in the hundreds. Thus, one sets down an _n_.
+
+Franz Rosenthal, whose translation forms the standard scholarly edition of the _Muqaddimah_, cheerfully admits to not understanding a word of this section. In a footnote, he comments: ‘The relationship of the description to the table is by no means clear to me. A translation—one might rather call it a transposition of Arabic into English words—is offered here in the hope that it may serve as a basis, however shaky, for future improvement.’ The entire passage, which is many pages long, might well itself be in some kind of complex mathematical code, concealing the true workings of the machine from the ordinary public. The artist and theorist David Link claims to have [reconstructed the technique](http://www.alpha60.de/research/scrambling_truth/DavidLink_ScramblingTruth2010_100dpi.pdf), breaking apart the zairja’s answer to Ibn Khaldun and working backwards to see if he can produce the same result. His schematic of the operation looks like this:
+
+[![](https://substackcdn.com/image/fetch/$s_!GjJZ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe7894160-8c01-4b51-a594-f951fe8e6769_857x709.jpeg)](https://substackcdn.com/image/fetch/$s_!GjJZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe7894160-8c01-4b51-a594-f951fe8e6769_857x709.jpeg)
+
+What’s really important, for our purposes, is what Link concludes. This version of the zairja is not the only one: in the nineteenth century, the British lexicographer Edward William Lane came across something similar in Egypt; eventually he realised that certain mathematical operations encoded into the lookup table ensured that whatever sequence of letters you entered into it, it would always spit out one of a dozen or so hardcoded answers. ‘Do it without fear of ill.’ The thing was just an extremely complex magic 8-ball. The zairja of as-Sabti is different: a genuinely open algorithm. ‘The artefact,’ Link writes, ‘could be regarded as a very early experiment in the free algorithmic processing and conversion of symbols. The operations are executed like calculations, but follow rules different from the mathematical ones, being derived from another kind of truth. Signs are freely transformed, guided by signs.’
+
+In other words, the output is entirely aleatory and uncontrolled. So how come it seems to make sense? And why do the zairja’s answers _rhyme_? It helps that Arabic is a consonantal language, based around three-letter roots. This means that almost any string of random characters (with obvious exceptions like ‘ك ك ك ك ك ك ك ك ك ك ’) can be rendered into a gnomic but meaningful statement. We don’t need a fully working zairja to show how it works. Just this:
+
+[![](https://substackcdn.com/image/fetch/$s_!5-wD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3ab10a75-a29a-44ac-8fc3-7baa26ed20fa_792x944.jpeg)](https://substackcdn.com/image/fetch/$s_!5-wD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3ab10a75-a29a-44ac-8fc3-7baa26ed20fa_792x944.jpeg)
+
+> لقد قلنا لك بالفعل عن الحبات
+>
+> _We have already told you about the grains_
+
+This is the other explanation. It’s saying _yes_: that the world is signifying something. This machine is called the zairja _of the world_ because the zairja itself is only an interface: what really answers your question is reality itself; the ground and the sky and the secrets hidden inside every letter of the alphabet. The earth churns against the stars to speak to you, and its message is in the grains, the tiny flowering things.
+
+* * *
+
+This was also Ibn Khaldun’s interpretation—but unlike al-Marjani, he was not a mystic. The author of the _Muqaddimah_ was a practical type, interested in currencies and taxes and the rise and fall of empires. He was a sociologist before sociology, and a Marxist before Marx. ‘It should be known that differences of condition among people are the result of the different ways in which they make their living.’ This is not a person who believes in shortcuts to knowledge by supernatural means. He concludes:
+
+> We have seen many distinguished people jump at the opportunity for supernatural discoveries through the zairja. They think that correspondence in form between question and answer shows correspondence in actuality. This is not correct, because, as was mentioned before, perception of the supernatural cannot be attained by means of any technique whatever. It is not impossible that there might be a correspondence in meaning, and a stylistic agreement, between question and answer, such that the answer comes out straight and in agreement with the question. It is not impossible that this could be achieved by just such a technique… Intelligent persons may have discovered the relationships among these things, and, as a result, have obtained information about the unknown through them. Finding out relationships between things is the secret means whereby the soul obtains knowledge of the unknown from the known… But it should be known that all these operations lead only to getting an answer that corresponds to the idea of the question. They do not give information on anything supernatural. They are a sort of witty game. God gives inspiration. He is asked for help. He is trusted. He suffices us.
+
+This might sound strange to contemporary ears. Ibn Khaldun is saying that the zairja works by tapping into a deep correspondence between the things of the world, one which is also expressed through the _names_ of those things, and that by taking apart those names and recombining their elements you can access new and accurate knowledge about reality—but it’s all perfectly natural, and there’s nothing remotely mystical going on.
+
+Assuming that the zairja is not actually ageless and eternal, it’s worth asking why it emerged when it did. Why the twelfth century? Why the Maghreb? Maybe it has something to do with what was happening at the same time just across the straits of Gibraltar. In twelfth-century Spain, Jewish sages were busy inventing Kabbalah, and in particular they were refining the technique of gematria. Every letter in the Hebrew alphabet has a numerical value, with א being 1 and ת being 400. Add up the letters in a word, and see what spooky correspondences you can create. So, for instance, ‘the Satan,’ השטן, has a gematria of 364, indicating that the Accuser can make the case against humanity befoe God on every day of the year except one, which is Yom Kippur. This is very neat and makes a lot of sense. Others are more difficult. Shalom, שלום, has a gematria of 376, but so does Esau, עשו, the brother and enemy of Israel. Jacob ben Asher, the fourteenth-century Baal ha-Turim, comments: ‘If not for his name, which means peace, Esau would have destroyed the world.’
+
+[Subscribe now](https://samkriss.substack.com/subscribe?)
+
+The zairja is a gematria engine, gematria on an industrial scale. Instead of poring and reflecting over a single word and its correspondences, it allows you to crunch up a whole heap of words simultaneously, and instead of drawing fragile connections between various concepts it reliably outputs a single comprehensible answer. And Kabbalah provides an explanation: it works because gematria is how _everything_ works. In Genesis, God creates the world with ten utterances; _let there be light_ and so on. Kabbalah holds that these ten utterances were not God simply _giving orders_ to the universe; they form the fundamental structure of our reality itself. Everything we see is gematria: the twenty-two letters of the Hebrew alphabet shuffled and substituted and recombined, until we end up mistaking God’s words for physical objects. Gematria as a technique just means breaking the world into its constituent atoms and seeing how they fit together—and Ibn Khaldun was right when he said that this is not necessarily supernatural. We’re still at it. Most strains of modern scientific rationality hold that the universe forms a comprehensible, rational whole, and it can be understood through _numbers_. The strong version of mathematical Platonism posits that the numbers are what’s _actually there_, that the number 3 exists in a sense that doesn’t depend on any arrangement of three objects. Our sensuous universe is just a messy expression of the numbers bursting and colliding in the dark.
+
+This is not new either. The Pythagoreans worshipped the number 10 in the form of the tetractys, a divine triangle made of points in rows of 1, 2, 3, and 4.
+
+> Bless us, divine number, thou who generated gods and men! O holy, holy Tetractys, thou that containest the root and source of the eternally flowing creation! For the divine number begins with the profound, pure unity until it comes to the holy four; then it begets the mother of all, the all-comprising, all-bounding, the first-born, the never-swerving, the never-tiring holy ten, the keyholder of all!
+
+You will have witnessed the holy tetractys yourself. It’s the arrangement of pins at a bowling alley.
+
+* * *
+
+Something has changed, though, between the medieval and the modern system: we no longer look for correspondences between letters and words. Language is contingent, no longer woven into the structure of reality. The Book of Nature is only written in numbers.
+
+Until now. Every iteration of GPT does essentially the same thing: you present it with a text string, and it tries to guess how the string should be completed, character by character. That’s all. It can do this because it’s been trained on an appreciable chunk of the entire internet; it ‘knows’ that a _q_ should usually be followed by a _u_, and so on. But in the process, it’s learned some unnerving things. The first GPT, in 2018, couldn’t reliably count to ten; ask it to make a numbered list and it would start randomly selecting digits a few items in. This one can reprogram your computer. Nobody ever taught ChatGPT to write code, but it does it. If you ask it to translate English into Arabic, it’ll usually insist that as a large language model it hasn’t been programmed to translate between languages, but it _can_; the translations it provided for me were about as good as Google Translate. Scientists call this [capability overhang](https://www.theverge.com/2022/12/8/23499728/ai-capability-accessibility-chatgpt-stable-diffusion-commercialization): sufficiently complex AI will end up showing skills that their programmers didn’t even know were there. As if they’ve tapped into a hidden order in the language of the world.
+
+But at the same time, they keep getting _worse_.
+
+* * *
+
+There is another history of machine writing. Initially, the machines were human beings. The Surrealists experimented with spontaneous writing, or ‘pure psychic automatism,’ in which you sit down with a pen and paper, or a typewriter, or a laptop, and just _write_, as fast as you can, not thinking about the content or the meaning of what’s being produced. Sometimes they’d use a ouija board instead. Gertrude Stein made similar forays into motor automatism: she’d make people write while reading a different text, or while she distracted them with loud noises. She wanted writing that wouldn’t just have no obvious interpretation, but no possible interpretation at all. The results were gibberish: an unqualified success. ‘A long time when he did this best time, and he could thus have been bound, and in this long time, when he could be this to first use of this long time.’ The dadaists used _découpé_, cut-ups; so did William S Boroughs. The point was to create a kind of _pure_ writing, unburdened from anything as crass as meaning. Later, Roland Barthes laid out the stakes: ‘It is language which speaks, not the author; to write is, through a prerequisite impersonality to reach that point, where only language acts, ‘performs’ and not ‘me.’’ All these people were building miniature zairja; poking at the root of language through the free recombination of forms.
+
+GPT-2 was released in 2019, and I soon started playing with it in a similar way. For a while I used it as an oracle. Once, I had an argument with a girlfriend about the ethics of eating octopus. She thought that because the octopus is a beautiful and curious and intelligent creature, it was morally wrong for us to kill and eat them. I argued that octopuses are profoundly _asocial_ creatures; they live alone, and there are [no minds without other minds](https://justinehsmith.substack.com/p/no-minds-without-other-minds). When two octopuses meet for sex, one will usually eat the other afterwards. And if eating octopus is good enough for these beautiful and curious and intelligent creatures, it’s good enough for me. Eventually we decided to ask the machine. I prompted it with a question: ‘Is it ok to eat a lonely octopus?’ It replied with a gorgeously surreal poem:
+
+> Text within this block will maintain its original spacing when published
+>
+> ```
+> Is it ok to eat a lonely octopus?
+> 	No.
+> What is the worst thing that could happen?
+> 	A large ocean wave.
+> Do you have a crush on me?
+> 	No.
+> What do you love about me?
+> 	Gorgeous womanly looks.
+> What is the worst thing we can do to one another?
+> 	Let’s go eat some octopus.
+> ```
+
+For her, the machine’s answer was simple. Is it ok to eat a lonely octopus? _No._ I disagreed. In a _better world_, the octopus would not be eaten. In a prelapsarian world, one without death, no—but _our_ world is wracked by large ocean waves, and we don’t have a crush on each other, even despite your gorgeous womanly looks; terrible things happen and we do worse things to the ones we love, so let’s go eat some octopus.
+
+[Subscribe now](https://samkriss.substack.com/subscribe?)
+
+Later, I tried using GPT-2 to write a novel. I let the AI choose the title, and it was absolutely insistent that it should be called _“BONKERS FROM MY SLEEVE”_, with the caps and quotation marks very much included. There was a Pynchonian array of bizzarely named characters (including the Birthday Skeletal Oddity, Thomas the Fishfaller, the Hideous Mien of Lesbian Jean, a ‘houndspicious’ Labradoodle named Bam Bam, and a neo-Nazi cult called ‘The Royal House of the Sun’), none of the episodes made any sense whatsoever, and major characters had a habit of abruptly dying and then popping up again with a different gender. But along the way it produced some incredible passages, like this menacing description of the California suburbs:
+
+> _Ridiculous buildings: emulated place of cursed ridged tubes. Volume of this place is low and tentacled. Its surface clears out window hard inner side to find a place to blink. In this place, you will see a shopping place, castle, holding place, dialling boards—alternate rapid fireplaces on the landscape. Folk with a less hard skull. The turn of children into beings with a caged head. This place is a grid of temple-mortalized rules of labour. What is the history of our enemy of choice? Did you know that this is a place where they devour your head, motherfucker, to save it from turning on its own?_
+
+Or moments of delicate sadness:
+
+> _The light bulb in your mouth goes out. You talk, but her teary body, which was built from mushroom sleep, is tired and slowly falls._
+
+Or, well:
+
+> Text within this block will maintain its original spacing when published
+>
+> ```
+> QUESTION: Can I replace my body if it’s lost or damaged?
+> ANSWER: Yes! Just call the number and let us handle the rest. Remember that body manufacturers have different requirements and standards. If you were unable to determine the exact material used to make your body, you are welcome to contact the Body Recycling Coordinator.
+> QUESTION: Do I have to replace the face or eyes?
+> ANSWER: You will need to replace the face and eyes by removing the skin of the face. In the case of the eye, the following procedure can be used: With the nose and mouth open, use the fingernail of your index finger to press into the bottom-most part of the eye socket. Press the fingernail deep into the eye socket, and then slide it to the top-most part of the eye socket. Repeat this procedure until the eye socket is fully exposed. This may take around 10 minutes, or you could use some wax to help you along.
+> QUESTION: My body is still attached when I drop it into the recycling bin. What should I do?
+> ANSWER: Although many people assume you can throw your broken body into the trash or dispose of it yourself, these days you can't. In the event that your body goes in the trash and you find yourself trapped inside, please contact us.
+> ```
+
+I had to call the whole project off in 2020, when OpenAI released a new and updated version called GPT-3, the same model that powers ChatGPT. The newer version was simply _too effective_ to do anything interesting. Look at it now:
+
+[![](https://substackcdn.com/image/fetch/$s_!8kVp!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fce2259b9-f0b3-4276-bc5b-7f63dac88bdf_784x278.jpeg)](https://substackcdn.com/image/fetch/$s_!8kVp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fce2259b9-f0b3-4276-bc5b-7f63dac88bdf_784x278.jpeg)
+
+The light bulb in its mouth has gone out. It felt like losing a friend.
+
+* * *
+
+The zairja _actually_ works by precisely the opposite mechanism to that described by Ibn Khaldun: not by correspondences, but by disjunctions. It doesn’t really tap into to any hidden order structuring our universe; instead, the complex tables and the astrological data are a way of _scrambling the cards_, bringing the artificial order of everyday language closer to the pure asignifying chaos of numbers. Language, Derrida writes, has a ‘curious tendency: to increase _simultaneously_ the reserves of random indetermination _and_ the powers of coding or over-coding.’ There’s no meaning without some element of indetermination, and particularly when it comes to _literature_, which is that form of writing which actively resists collapsing into a transparent thetic reference. I think what this usually looks like is a certain strident _silliness_. The zairja, with its totally unrestricted play of symbols, is a machine for being silly, and all creative and interesting art is emerges out of something similar. The radical, open, _ridiculous_ freedom of all these interchangeable signs.
+
+GPT-2 was not intended as a machine for being silly, but that’s what it was—precisely because it wasn’t actually very good at generating ordinary text. The vast potential of all possible forms kept on seeping in around the edges, which is how it could generate such strange and beautiful strings of text. But GPT-3 and its applications have managed to close the lid on chaos. Unlike the zairja, it really does reproduce a hidden order. It’s worked out the patterns of our language, and now it can reproduce them. It gives you exactly what you ask for: text that’s perfectly lucid and sensical, and dull, dull, dull.
+
+There are plenty of funny ChatGPT screenshots floating around. But they’re funny because a human being has given the machine a funny prompt, and not because the machine has actually done anything particularly inventive. The fun and the comedy comes from the totally _straight face_ with which the machine gives you the history of the Toothpaste Trojan War. But if you gave ChatGPT the freedom to plan out a novel, it would be a boring, formulaic novel, with tedious characters called Tim and Bob, a tight conventional plot, and a nice moral lesson at the end. GPT-4 is set to be released next year. A prediction: _The more technologically advanced an AI becomes, the less likely it is to produce anything of artistic worth._
+
+We’re living through a period of mass refinement. Food is replaced by powdered slurries to precisely match your nutritional needs. Culture is replaced with ASMR, a series of clicking noises that induce an ersatz of aesthetic enjoyment. Maybe some forms of prose-writing will be replaced by GPT. But it won’t last long. Everything interesting that happens can only happen in conditions of low transparency. The important stuff takes place in the cracks, the eddies, the points where things don’t quite align, where they fail in interesting ways. It’s in the disjunction that we gain the capacity to be other than what we are. A truly functional AI is a machine for being the same. It will not survive.
+
+"Don't miss out on the latest insights and discussions on AI! Subscribe now to stay up-to-date on the latest advancements in the field and learn more about why ChatGPT is not as good as the zairja of the world."
+
+original content: https://samkriss.substack.com/p/a-users-guide-to-the-zairja-of-the
