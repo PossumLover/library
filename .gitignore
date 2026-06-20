@@ -2,5 +2,4 @@ node_modules/
 _site/
 .env
 .env.local
-# Images are downloaded locally and not tracked in git (they'd be hundreds of MB)
-content/sam-kriss/images/
+# (images are committed — resized to ~66 MB total)
