@@ -40,6 +40,13 @@ body {
   margin: 0 auto;
   padding: 1.4rem 2rem 1.2rem;
   display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.header-brand {
+  display: flex;
   flex-direction: column;
   gap: 0.15rem;
 }
@@ -60,6 +67,175 @@ body {
   font-style: italic;
   font-size: 0.9rem;
 }
+
+/* ── Search ──────────────────────────────────────────────── */
+
+.search-icon {
+  width: 1em;
+  height: 1em;
+  flex-shrink: 0;
+}
+
+.search-trigger {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.45rem 0.6rem 0.45rem 0.75rem;
+  background: transparent;
+  color: #aaa;
+  border: 1px solid #444;
+  border-radius: 3px;
+  font-family: var(--sans);
+  font-size: 0.78rem;
+  cursor: pointer;
+  transition: color 0.1s, border-color 0.1s;
+}
+
+.search-trigger:hover,
+.search-trigger:focus-visible {
+  color: var(--header-fg);
+  border-color: #777;
+}
+
+.search-trigger-key,
+.search-close {
+  font-family: var(--sans);
+  font-size: 0.68rem;
+  line-height: 1;
+  padding: 0.2rem 0.4rem;
+  border: 1px solid currentColor;
+  border-radius: 3px;
+  opacity: 0.7;
+}
+
+.search-dialog {
+  width: min(680px, calc(100vw - 2rem));
+  max-height: min(80vh, 720px);
+  margin: 10vh auto auto;
+  padding: 0;
+  border: 1px solid var(--border);
+  border-top: 3px solid var(--accent);
+  background: var(--bg);
+  color: var(--text);
+  box-shadow: 0 18px 50px rgba(0, 0, 0, 0.3);
+}
+
+.search-dialog::backdrop {
+  background: rgba(17, 17, 17, 0.55);
+}
+
+.search-panel {
+  display: flex;
+  flex-direction: column;
+  max-height: inherit;
+}
+
+.search-form {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.9rem 1.1rem;
+  border-bottom: 1px solid var(--border);
+  color: var(--muted);
+}
+
+.search-input {
+  flex: 1;
+  min-width: 0;
+  border: none;
+  outline: none;
+  background: transparent;
+  color: var(--text);
+  font-family: var(--serif);
+  font-size: 1.2rem;
+}
+
+.search-input::-webkit-search-cancel-button { display: none; }
+
+.search-close {
+  background: transparent;
+  color: var(--muted);
+  cursor: pointer;
+}
+
+.search-status {
+  font-family: var(--sans);
+  font-size: 0.72rem;
+  color: var(--muted);
+  padding: 0 1.1rem;
+}
+
+.search-status:not(:empty) { padding: 0.6rem 1.1rem 0.2rem; }
+
+.search-results {
+  list-style: none;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+}
+
+.search-result { border-bottom: 1px solid var(--border); }
+.search-result:last-child { border-bottom: none; }
+
+.search-result a {
+  display: block;
+  padding: 0.8rem 1.1rem;
+  color: inherit;
+  text-decoration: none;
+}
+
+.search-result a:hover,
+.search-result a:focus-visible,
+.search-result a[aria-selected="true"] {
+  background: rgba(139, 0, 0, 0.06);
+  outline: none;
+}
+
+.search-result a:hover .search-result-title,
+.search-result a[aria-selected="true"] .search-result-title {
+  color: var(--accent);
+}
+
+.search-result-title {
+  font-size: 1.05rem;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.search-result-date {
+  display: block;
+  font-family: var(--sans);
+  font-size: 0.68rem;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+  margin: 0.15rem 0 0.3rem;
+}
+
+.search-result-excerpt {
+  display: block;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: var(--muted);
+}
+
+.search-result-excerpt mark {
+  background: none;
+  color: var(--text);
+  font-weight: 600;
+}
+
+.search-more {
+  margin: 0;
+  padding: 0.75rem;
+  border: none;
+  border-top: 1px solid var(--border);
+  background: transparent;
+  color: var(--accent);
+  font-family: var(--sans);
+  font-size: 0.78rem;
+  cursor: pointer;
+}
+
+.search-more:hover { text-decoration: underline; }
 
 /* ── Main layout ─────────────────────────────────────────── */
 
@@ -317,6 +493,10 @@ main {
   main { padding: 1.5rem 1.25rem 3rem; }
   .header-inner { padding: 1.1rem 1.25rem; }
   .site-name { font-size: 1.7rem; }
+  .search-trigger { padding: 0.5rem; }
+  .search-trigger-label,
+  .search-trigger-key { display: none; }
+  .search-dialog { margin-top: 1rem; max-height: calc(100vh - 2rem); }
   .post-title { font-size: 1.9rem; }
 
   .article-link {

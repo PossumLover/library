@@ -12,8 +12,15 @@
 <body>
   <header class="site-header">
     <div class="header-inner">
-      <a href="/" class="site-name">{{ site.title }}</a>
-      <span class="site-byline">{{ site.author }}</span>
+      <div class="header-brand">
+        <a href="/" class="site-name">{{ site.title }}</a>
+        <span class="site-byline">{{ site.author }}</span>
+      </div>
+      <button type="button" class="search-trigger" data-search-open aria-haspopup="dialog" aria-label="Search all articles">
+        <svg class="search-icon" viewBox="0 0 20 20" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.75" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M13 13l4.5 4.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+        <span class="search-trigger-label">Search</span>
+        <kbd class="search-trigger-key">/</kbd>
+      </button>
     </div>
   </header>
 
@@ -26,5 +33,20 @@
       <p>A personal archive of <em>{{ site.title }}</em> by {{ site.author }}.</p>
     </div>
   </footer>
+
+  <dialog class="search-dialog" aria-label="Search the archive">
+    <div class="search-panel">
+      <form class="search-form" role="search">
+        <svg class="search-icon" viewBox="0 0 20 20" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.75" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M13 13l4.5 4.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+        <input type="search" class="search-input" placeholder="Search every essay…" autocomplete="off" spellcheck="false" aria-label="Search every essay" aria-controls="search-results">
+        <button type="button" class="search-close" data-search-close aria-label="Close search">Esc</button>
+      </form>
+      <p class="search-status" role="status" aria-live="polite"></p>
+      <ol class="search-results" id="search-results"></ol>
+      <button type="button" class="search-more" hidden>Show more results</button>
+    </div>
+  </dialog>
+
+  <script src="/search.js" defer></script>
 </body>
 </html>

@@ -4,11 +4,12 @@
   "description": "A personal archive of Sam Kriss's writing",
   "scripts": {
     "prepare-content": "node scripts/prepare.js",
-    "build": "eleventy",
-    "start": "eleventy --serve --port 3000"
+    "build": "eleventy && pagefind --site _site",
+    "start": "npm run build && eleventy --serve --port 3000"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0",
+    "pagefind": "^1.5.2",
     "sharp": "^0.35.2"
   }
 }
